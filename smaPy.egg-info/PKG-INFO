@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: smaPy
+Version: 0.0.1
+Summary: A Python package implements structrally masked autoencoder, a deep autoencoder for joint decomposing of multiple data sets.
+Home-page: https://github.com/CHuanSite/smaPy
+Author: Huan Chen
+Author-email: hchen130@jhu.edu
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# smaPy
+
+

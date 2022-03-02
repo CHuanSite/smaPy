@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+smaPy/__init__.py
+smaPy/smaPy.py
+smaPy.egg-info/PKG-INFO
+smaPy.egg-info/SOURCES.txt
+smaPy.egg-info/dependency_links.txt
+smaPy.egg-info/requires.txt
+smaPy.egg-info/top_level.txt

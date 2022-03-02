@@ -1,1 +1,2 @@
-# smaPy
+# smautoPy
+

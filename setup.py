@@ -13,12 +13,11 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/CHuanSite/smaPy",
-    license='GPT',
+    license='MIT',
     python_requires='>=3.6',
     install_requires=[
          "numpy",
          "pandas",
-         "torch",
-         "collections"
+         "torch"
     ]
 )
